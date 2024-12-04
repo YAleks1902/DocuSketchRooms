@@ -26,14 +26,7 @@ npm install
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Extra comments
+TS coverage was planned for project but because og too much time spent on lenght and width logic only config was implemented(shouldnt cause any issues)
+Check comments inside components for explanation of some parts of code 
+I will appreciate comment and feedbakc on how to better solve lenght and width part of task
